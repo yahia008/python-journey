@@ -1,0 +1,18 @@
+.join(iterable)
+.replace(old, new, count)
+.upper()
+.lower()
+.capitatize()
+.isupper()
+.islower()
+.isalpha()
+.isnumeric()
+.isalnum()
+.count(sub, start, end)
+.find(sub, start, end)
+.rfind(sub, start, end)
+.index(sub, start, end)
+.rindex(sub, start, end)
+.title()
+in
+not in 
